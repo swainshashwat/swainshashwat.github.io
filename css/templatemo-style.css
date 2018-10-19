@@ -383,7 +383,10 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../images/about-img.png') no-repeat;
+}
+#about .about-img-1 {
+  background: url('../images/about-img-1.png') no-repeat;
 }
 
 #about .about-thumb,
